@@ -7,7 +7,7 @@ book:
   title: "This is the way"
   description: "How to win!"
   author: "Dr. Gordon Wright"
-  keywords: [Monkey, Psychology]
+  # keywords: [Monkey, Psychology]
   
   # favicon: 
   # site-url: 

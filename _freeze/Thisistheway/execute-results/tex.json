@@ -1,0 +1,20 @@
+{
+  "hash": "594730298a51fc53f20b585f6e345504",
+  "result": {
+    "markdown": "---\ntitle: \"Thisistheway\"\n---\n\n\n\n## This is the way!\n\n::: callout-important\n## Importyant\n\nthis is soooo important!!\n:::\n\nQuarto enables you to weave together content and executable code into a\nfinished document. To learn more about Quarto see <https://quarto.org>.\n\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n```\n[1] 2\n```\n:::\n:::\n",
+    "supporting": [
+      "Thisistheway_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {
+      "knitr": [
+        "{\"type\":\"list\",\"attributes\":{},\"value\":[]}"
+      ]
+    },
+    "preserve": null,
+    "postProcess": false
+  }
+}
