@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "about.qmd",
+                "file": "index.qmd",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "about.qmd",
+                "file": "index.qmd",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "about.qmd",
+                "file": "index.qmd",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "about.qmd"
+                "file": "index.qmd"
               }
             }
           }
@@ -148,6 +148,7 @@
   },
   "active": "08a07095e23c6249",
   "lastOpenFiles": [
+    "about.qmd",
     "docs/search.json",
     "docs/site_libs/quarto-search/quarto-search.js",
     "docs/site_libs/quarto-search/fuse.min.js",
@@ -157,7 +158,6 @@
     "docs/site_libs/quarto-html/tippy.umd.min.js",
     "docs/site_libs/quarto-html/tippy.css",
     "docs/site_libs/quarto-html/quarto.js",
-    "docs/site_libs/quarto-html/quarto-syntax-highlighting.css",
-    "docs/site_libs/quarto-html/popper.min.js"
+    "docs/site_libs/quarto-html/quarto-syntax-highlighting.css"
   ]
 }
