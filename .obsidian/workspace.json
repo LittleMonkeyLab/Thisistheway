@@ -11,8 +11,12 @@
             "id": "f01b8857e9429a17",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "index.qmd",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -142,18 +146,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "08a07095e23c6249",
+  "active": "f01b8857e9429a17",
   "lastOpenFiles": [
-    "docs/search.json",
-    "docs/site_libs/quarto-search/quarto-search.js",
-    "docs/site_libs/quarto-search/fuse.min.js",
-    "docs/site_libs/quarto-search/autocomplete.umd.js",
-    "docs/site_libs/quarto-nav/quarto-nav.js",
-    "docs/site_libs/quarto-nav/headroom.min.js",
-    "docs/site_libs/quarto-html/tippy.umd.min.js",
-    "docs/site_libs/quarto-html/tippy.css",
-    "docs/site_libs/quarto-html/quarto.js",
-    "docs/site_libs/quarto-html/quarto-syntax-highlighting.css",
-    "docs/site_libs/quarto-html/popper.min.js"
+    "site_libs/quarto-search/quarto-search.js",
+    "site_libs/quarto-search/fuse.min.js",
+    "site_libs/quarto-search/autocomplete.umd.js",
+    "site_libs/quarto-nav/quarto-nav.js",
+    "site_libs/quarto-nav/headroom.min.js",
+    "site_libs/quarto-html/tippy.umd.min.js",
+    "site_libs/quarto-html/tippy.css",
+    "site_libs/quarto-html/quarto.js",
+    "site_libs/quarto-html/quarto-syntax-highlighting.css",
+    "site_libs/quarto-html/popper.min.js",
+    "site_libs/quarto-html/anchor.min.js"
   ]
 }
