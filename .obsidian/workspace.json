@@ -146,9 +146,8 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "08a07095e23c6249",
+  "active": "c5c8829ce73e5171",
   "lastOpenFiles": [
-    "about.qmd",
     "docs/search.json",
     "docs/site_libs/quarto-search/quarto-search.js",
     "docs/site_libs/quarto-search/fuse.min.js",
@@ -158,6 +157,7 @@
     "docs/site_libs/quarto-html/tippy.umd.min.js",
     "docs/site_libs/quarto-html/tippy.css",
     "docs/site_libs/quarto-html/quarto.js",
-    "docs/site_libs/quarto-html/quarto-syntax-highlighting.css"
+    "docs/site_libs/quarto-html/quarto-syntax-highlighting.css",
+    "docs/site_libs/quarto-html/popper.min.js"
   ]
 }
