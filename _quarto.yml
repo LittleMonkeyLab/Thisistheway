@@ -1,0 +1,67 @@
+project:
+  type: book 
+  title: "Thisistheway"
+  output-dir: output
+  
+book: 
+  title: "This is the way"
+  description: "How to win!"
+  author: "Dr. Gordon Wright"
+  keywords: [Monkey, Psychology]
+  
+  # favicon: 
+  # site-url: 
+  # site-path: 
+  navbar: 
+    left: 
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        text: About
+  sidebar:
+    background: "#F5F5F5"
+    logo: "LMLLOGO.png"
+    search: true
+  repo-url: https://github.com/kevinheavey/modern-polars/
+  repo-subdir: book
+  repo-branch: master
+  repo-actions: [edit, issue, source]
+  sharing: [twitter, facebook, linkedin]
+  cover-image: iimages/image.png
+  comments: 
+      hypothesis: 
+        openSidebar: false
+  chapters: 
+    - index.qmd
+    - part: Curriculum
+      chapters: 
+        - Thisistheway.qmd
+        - about.qmd
+    - part: DataSkills
+      chapters: 
+        - Thisistheway.qmd
+        - about.qmd
+
+toc: true
+number-sections: false
+bibliography: references.bib  
+ 
+author: "Dr. Gordon Wright" 
+date: last-modified
+
+format:
+  html: default
+  pdf: default
+  docx: default
+  pptx: default
+
+    # documentclass: scrbook
+    # margin-left: 30mm
+    # margin-right: 30mm
+
+
+execute: 
+  freeze: true
+  
+editor: visual
+

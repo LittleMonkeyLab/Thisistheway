@@ -1,0 +1,19 @@
+---
+title: index
+---
+
+This is index.qmd. Hear me roar
+
+::: callout-note
+## hello note
+
+THis is a note callout
+:::
+
+-   bullet q
+
+-   buller2
+
+-   buller
+
+-   2sadkgja
