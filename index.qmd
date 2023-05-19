@@ -3,14 +3,14 @@ title: index
 ---
 ## Here we go Monkey!! 
 
-
+[BBS](www.bbc.co.uk) and here is a link to another section [[]]
 This is exciting??
 
 I was a man of firm intent
 
 and the dogs of war are releasedOMG
 
-This is index.qmd. Hear me roar
+[[another note]]. Hear me roar
 
 ::: callout-note
 ## hello note

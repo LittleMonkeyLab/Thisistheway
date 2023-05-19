@@ -148,6 +148,9 @@
   },
   "active": "f01b8857e9429a17",
   "lastOpenFiles": [
+    "another note.md",
+    "another note.qmd",
+    "index.qmd",
     "site_libs/quarto-search/quarto-search.js",
     "site_libs/quarto-search/fuse.min.js",
     "site_libs/quarto-search/autocomplete.umd.js",
@@ -155,9 +158,6 @@
     "site_libs/quarto-nav/headroom.min.js",
     "site_libs/quarto-html/tippy.umd.min.js",
     "site_libs/quarto-html/tippy.css",
-    "site_libs/quarto-html/quarto.js",
-    "site_libs/quarto-html/quarto-syntax-highlighting.css",
-    "site_libs/quarto-html/popper.min.js",
-    "site_libs/quarto-html/anchor.min.js"
+    "site_libs/quarto-html/quarto.js"
   ]
 }
