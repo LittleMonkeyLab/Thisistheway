@@ -148,16 +148,16 @@
   },
   "active": "08a07095e23c6249",
   "lastOpenFiles": [
-    "output/search.json",
-    "output/site_libs/quarto-search/quarto-search.js",
-    "output/site_libs/quarto-search/fuse.min.js",
-    "output/site_libs/quarto-search/autocomplete.umd.js",
-    "output/site_libs/quarto-nav/quarto-nav.js",
-    "output/site_libs/quarto-nav/headroom.min.js",
-    "output/site_libs/quarto-html/tippy.umd.min.js",
-    "output/site_libs/quarto-html/quarto.js",
-    "output/site_libs/quarto-html/tippy.css",
-    "output/site_libs/quarto-html/quarto-syntax-highlighting.css",
-    "output/site_libs/quarto-html/popper.min.js"
+    "docs/search.json",
+    "docs/site_libs/quarto-search/quarto-search.js",
+    "docs/site_libs/quarto-search/fuse.min.js",
+    "docs/site_libs/quarto-search/autocomplete.umd.js",
+    "docs/site_libs/quarto-nav/quarto-nav.js",
+    "docs/site_libs/quarto-nav/headroom.min.js",
+    "docs/site_libs/quarto-html/tippy.umd.min.js",
+    "docs/site_libs/quarto-html/tippy.css",
+    "docs/site_libs/quarto-html/quarto.js",
+    "docs/site_libs/quarto-html/quarto-syntax-highlighting.css",
+    "docs/site_libs/quarto-html/popper.min.js"
   ]
 }
