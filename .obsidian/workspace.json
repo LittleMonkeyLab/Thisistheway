@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "2ba3f1f57c1651bb",
+        "id": "dfd65a48c0390461",
         "type": "tabs",
         "children": [
           {
-            "id": "c5c8829ce73e5171",
+            "id": "f01b8857e9429a17",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "index.qmd",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -146,7 +142,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c5c8829ce73e5171",
+  "active": "08a07095e23c6249",
   "lastOpenFiles": [
     "docs/search.json",
     "docs/site_libs/quarto-search/quarto-search.js",
